@@ -24,6 +24,7 @@ namespace demogit
 
             Console.WriteLine("1er commit equipo#3");
             Console.WriteLine("2do commit equipo#3");
+            Console.WriteLine("3er commit equipo#3");
 
 
         }
